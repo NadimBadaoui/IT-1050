@@ -1,0 +1,7 @@
+C:\Users\Pyro\Desktop\Tri-C\IT 1050\Repo\Project3\Project3\bin\Debug\Project-3.exe.config
+C:\Users\Pyro\Desktop\Tri-C\IT 1050\Repo\Project3\Project3\bin\Debug\Project-3.exe
+C:\Users\Pyro\Desktop\Tri-C\IT 1050\Repo\Project3\Project3\bin\Debug\Project-3.pdb
+C:\Users\Pyro\Desktop\Tri-C\IT 1050\Repo\Project3\Project3\obj\Debug\Project3.csprojResolveAssemblyReference.cache
+C:\Users\Pyro\Desktop\Tri-C\IT 1050\Repo\Project3\Project3\obj\Debug\Project3.csproj.CoreCompileInputs.cache
+C:\Users\Pyro\Desktop\Tri-C\IT 1050\Repo\Project3\Project3\obj\Debug\Project-3.exe
+C:\Users\Pyro\Desktop\Tri-C\IT 1050\Repo\Project3\Project3\obj\Debug\Project-3.pdb
