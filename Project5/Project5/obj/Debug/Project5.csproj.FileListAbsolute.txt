@@ -1,0 +1,7 @@
+C:\Users\Pyro\Desktop\Tri-C\IT 1050\IT-1050-master\IT-1050-master\Project5\Project5\bin\Debug\Lab 5.exe.config
+C:\Users\Pyro\Desktop\Tri-C\IT 1050\IT-1050-master\IT-1050-master\Project5\Project5\bin\Debug\Lab 5.exe
+C:\Users\Pyro\Desktop\Tri-C\IT 1050\IT-1050-master\IT-1050-master\Project5\Project5\bin\Debug\Lab 5.pdb
+C:\Users\Pyro\Desktop\Tri-C\IT 1050\IT-1050-master\IT-1050-master\Project5\Project5\obj\Debug\Project5.csprojResolveAssemblyReference.cache
+C:\Users\Pyro\Desktop\Tri-C\IT 1050\IT-1050-master\IT-1050-master\Project5\Project5\obj\Debug\Project5.csproj.CoreCompileInputs.cache
+C:\Users\Pyro\Desktop\Tri-C\IT 1050\IT-1050-master\IT-1050-master\Project5\Project5\obj\Debug\Lab 5.exe
+C:\Users\Pyro\Desktop\Tri-C\IT 1050\IT-1050-master\IT-1050-master\Project5\Project5\obj\Debug\Lab 5.pdb
