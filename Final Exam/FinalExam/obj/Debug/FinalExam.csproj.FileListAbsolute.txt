@@ -1,0 +1,13 @@
+c:\users\serge\source\repos\FinalExam\FinalExam\bin\Debug\FinalExam.exe.config
+c:\users\serge\source\repos\FinalExam\FinalExam\bin\Debug\FinalExam.exe
+c:\users\serge\source\repos\FinalExam\FinalExam\bin\Debug\FinalExam.pdb
+c:\users\serge\source\repos\FinalExam\FinalExam\obj\Debug\FinalExam.csproj.CoreCompileInputs.cache
+c:\users\serge\source\repos\FinalExam\FinalExam\obj\Debug\FinalExam.exe
+c:\users\serge\source\repos\FinalExam\FinalExam\obj\Debug\FinalExam.pdb
+C:\Users\Pyro\Desktop\Tri-C\IT 1050\IT-1050-master\IT-1050-master\All\Final Exam\FinalExam\bin\Debug\FinalExam.exe.config
+C:\Users\Pyro\Desktop\Tri-C\IT 1050\IT-1050-master\IT-1050-master\All\Final Exam\FinalExam\bin\Debug\FinalExam.exe
+C:\Users\Pyro\Desktop\Tri-C\IT 1050\IT-1050-master\IT-1050-master\All\Final Exam\FinalExam\bin\Debug\FinalExam.pdb
+C:\Users\Pyro\Desktop\Tri-C\IT 1050\IT-1050-master\IT-1050-master\All\Final Exam\FinalExam\obj\Debug\FinalExam.csprojResolveAssemblyReference.cache
+C:\Users\Pyro\Desktop\Tri-C\IT 1050\IT-1050-master\IT-1050-master\All\Final Exam\FinalExam\obj\Debug\FinalExam.csproj.CoreCompileInputs.cache
+C:\Users\Pyro\Desktop\Tri-C\IT 1050\IT-1050-master\IT-1050-master\All\Final Exam\FinalExam\obj\Debug\FinalExam.exe
+C:\Users\Pyro\Desktop\Tri-C\IT 1050\IT-1050-master\IT-1050-master\All\Final Exam\FinalExam\obj\Debug\FinalExam.pdb
